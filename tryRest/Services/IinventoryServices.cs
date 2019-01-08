@@ -11,5 +11,6 @@ namespace tryRest.Services
     {
         InventoryItems AddInventoryItems(InventoryItems items);
         Dictionary<string, InventoryItems> GetInventoryItems();
+        KeyValuePair<string, InventoryItems> GetItem(int id);
     }
 }

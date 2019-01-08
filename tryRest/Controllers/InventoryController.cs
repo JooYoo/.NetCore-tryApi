@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Routing;
 using tryRest.Models;
 using tryRest.Services;
 
@@ -25,7 +27,6 @@ namespace tryRest.Controllers
             {
                 return NotFound();
             }
-
             return inventoryItems;
         }
 
@@ -39,8 +40,21 @@ namespace tryRest.Controllers
             {
                 return NotFound();
             }
-
             return inventoryItems;
         }
+
+        [HttpGet]
+        [Route("GetItem/{id}")]
+        public ActionResult<InventoryItems> GetInventoryItem(int id)
+        {
+            var inventoryItem = services.GetItem(id);
+
+            if (inventoryItem.Value == null)
+            {
+                return NotFound();
+            }
+            return inventoryItem.Value;
+        }
+
     }
 }
