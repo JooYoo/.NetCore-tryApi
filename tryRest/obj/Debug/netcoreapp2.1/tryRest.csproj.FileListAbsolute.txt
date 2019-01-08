@@ -1,0 +1,14 @@
+D:\tryREST\tryRest\tryRest\bin\Debug\netcoreapp2.1\tryRest.deps.json
+D:\tryREST\tryRest\tryRest\bin\Debug\netcoreapp2.1\tryRest.runtimeconfig.json
+D:\tryREST\tryRest\tryRest\bin\Debug\netcoreapp2.1\tryRest.runtimeconfig.dev.json
+D:\tryREST\tryRest\tryRest\bin\Debug\netcoreapp2.1\tryRest.dll
+D:\tryREST\tryRest\tryRest\bin\Debug\netcoreapp2.1\tryRest.pdb
+D:\tryREST\tryRest\tryRest\obj\Debug\netcoreapp2.1\tryRest.csprojAssemblyReference.cache
+D:\tryREST\tryRest\tryRest\obj\Debug\netcoreapp2.1\tryRest.csproj.CoreCompileInputs.cache
+D:\tryREST\tryRest\tryRest\obj\Debug\netcoreapp2.1\tryRest.RazorAssemblyInfo.cache
+D:\tryREST\tryRest\tryRest\obj\Debug\netcoreapp2.1\tryRest.RazorAssemblyInfo.cs
+D:\tryREST\tryRest\tryRest\obj\Debug\netcoreapp2.1\tryRest.AssemblyInfoInputs.cache
+D:\tryREST\tryRest\tryRest\obj\Debug\netcoreapp2.1\tryRest.AssemblyInfo.cs
+D:\tryREST\tryRest\tryRest\obj\Debug\netcoreapp2.1\tryRest.RazorTargetAssemblyInfo.cache
+D:\tryREST\tryRest\tryRest\obj\Debug\netcoreapp2.1\tryRest.dll
+D:\tryREST\tryRest\tryRest\obj\Debug\netcoreapp2.1\tryRest.pdb
